@@ -1,4 +1,4 @@
-Foo Bank Web API
+Express Js ES6 Starter kit
 ==================================
 
 Getting Started
